@@ -9,5 +9,7 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
+  # When exploring the data structure using custom methods, print_first_directors_movie_titles loops over Spielberg’s movies and prints out their names with newlines
+  
   
 end
